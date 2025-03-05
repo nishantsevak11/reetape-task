@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Healthcare",
+      "description": "Reetape's voice AI solutions revolutionize healthcare by enabling hands-free documentation, patient record access, and medical device control, improving efficiency and reducing infection risks in clinical settings.",
+      "imageUrl": "/images/healthcare.jpg"
+    },
+    {
+      "title": "Automation",
+      "description": "In automation, Reetape empowers voice-controlled systems for industrial processes, enabling workers to control machinery, access documentation, and log data hands-free, enhancing safety and productivity.",
+      "imageUrl": "/images/automation.jpg"
+    },
+    {
+      "title": "Education",
+      "description": "Transform learning experiences with Reetape's voice AI, enabling interactive lessons, accessibility features for differently-abled students, and seamless classroom technology integration.",
+      "imageUrl": "/images/education.jpg"
+    },
+    {
+      "title": "Retail",
+      "description": "Reetape enhances the retail experience with voice AI, enabling hands-free checkout, personalized shopping assistance, and seamless inventory management for businesses.",
+      "imageUrl": "/images/retail.jpg"
+    },
+    {
+      "title": "Finance",
+      "description": "Reetape's AI solutions assist in secure voice-based banking, financial analytics, and fraud detection, enhancing accessibility and security for financial institutions.",
+      "imageUrl": "/images/finance.jpg"
+    },
+    {
+      "title": "Transportation",
+      "description": "With Reetape, voice AI optimizes transportation logistics by enabling hands-free navigation, real-time fleet management, and enhanced driver safety features.",
+      "imageUrl": "/images/transportation.jpg"
+    },
+    {
+      "title": "Hospitality",
+      "description": "Reetape transforms the hospitality industry with voice AI-powered concierge services, automated check-ins, and personalized guest experiences in hotels and resorts.",
+      "imageUrl": "/images/hospitality.jpg"
+    },
+    {
+      "title": "Manufacturing",
+      "description": "In manufacturing, Reetape facilitates hands-free equipment control, quality inspection, and safety monitoring through advanced voice recognition solutions.",
+      "imageUrl": "/images/manufacturing.jpg"
+    },
+    {
+      "title": "Customer Service",
+      "description": "Reetape's AI-powered voice assistants enhance customer service by providing instant query resolution, automated responses, and efficient call routing.",
+      "imageUrl": "/images/customer-service.jpg"
+    },
+    {
+      "title": "Smart Homes",
+      "description": "Reetape enables voice-controlled smart home automation, allowing users to manage appliances, security systems, and entertainment hands-free with ease.",
+      "imageUrl": "/images/smart-homes.jpg"
+    }
+  ]
