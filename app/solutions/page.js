@@ -9,7 +9,7 @@ export default function SolutionsPage() {
   useEffect(() => {
     async function fetchSolutions() {
       try {
-        const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/data/solutions.json`);
+        const res = await fetch("/data/solutions.json");
         if (!res.ok) throw new Error("Failed to fetch data");
         const data = await res.json();
         setSolutions(data);
